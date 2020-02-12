@@ -323,3 +323,56 @@ require get_template_directory() . '/inc/template-tags.php';
  * Customizer additions.
  */
 require get_template_directory() . '/inc/customizer.php';
+// Edit the posts
+add_filter( 'excerpt_length', function($length){
+	return 20;
+});
+/**
+ * Start Custom Functions Below
+ */
+// Create Your First Custom Post Type!!
+// Creates Movie Reviews Custom Post Type
+function movie_reviews_init(){
+	$args = array(
+		'label' => 'Movie Reviews',
+		'public' => true,
+		'show_ui' => true,
+		'capability_type' => 'post',
+		'hierarchical' => false,
+		'rewrite' => array('slug' => 'movie-reviews'),
+		'query_var' => true,
+		'menu_icon' => 'dashicons-video-alt',
+		'supports' => array(
+			'title',
+			'editor',
+			'excerpt',
+			'trackbacks',
+			'custom-fields',
+			'comments',
+			'revisions',
+			'thumbnail',
+			'author',
+			'page-attributes'
+		)
+	);
+	register_post_type( 'movie-reviews', $args );
+}
+add_action( 'init', 'movie_reviews_init' );
+
+// Lets make our first shortcode
+function movie_reviews(){
+	$query = new WP_Query( array('post_type' => 'movie-reviews', 'posts_per_page' => 10 ) );
+	while ( $query->have_posts() ) : $query->the_post();
+	echo "<div><h3>";
+		the_title();
+	echo "</h3></div>";
+	echo "<div class='movie-content'>";
+		the_post_thumbnail();
+		the_content();
+	echo "</div>";
+	endwhile;
+}
+function movie_shortcode(){
+	add_shortcode('movie_shortcode', 'movie_reviews');
+}
+add_action( 'init', 'movie_shortcode');

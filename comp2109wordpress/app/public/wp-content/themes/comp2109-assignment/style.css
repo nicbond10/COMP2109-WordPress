@@ -1,0 +1,44 @@
+/*
+Theme Name: comp2109-assignment
+Author: Nicolas Bond
+Description: This is a basic WordPress theme.
+Requires at least: WordPress 4.9.6
+Version: 1
+*/
+
+body {
+    background: lightcoral;
+}
+
+header {
+    background: rgb(225, 225, 225);
+    width: 100%;
+    margin-top: 70px;
+}
+
+nav {
+    border-bottom: 3px solid black;
+    background: rgb(225, 225, 225);
+    box-shadow: 0 1px 5px black;
+}
+
+.navbar-brand {
+    font-size: 36pt;
+}
+
+footer {
+    background: rgb(225, 225, 225);
+}
+
+footer ul {
+    list-style: none;
+    margin-left: -40px;
+}
+
+footer li a {
+    color: gray;
+}
+
+footer li a:hover {
+    color: black;
+}

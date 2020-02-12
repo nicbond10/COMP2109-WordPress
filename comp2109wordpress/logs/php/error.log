@@ -1,0 +1,890 @@
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php(34): require_once('/Users/nicbond/...')
+#7 /Users/nicbond/Local Sites/comp2109wordpress/app/p in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:53:05 UTC] PHP Stack trace:
+[05-Feb-2020 14:53:05 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:53:05 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:53:05 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:53:05 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:53:05 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:53:05 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:53:05 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:53:05 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php(44): require_once('/Users/nicbond/...')
+#7 {main}
+  thrown in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/index.php:10
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php(34): require_once('/Users/nicbond/...')
+#7 /Users/nicbond/Local Sites/comp2109wordpress/app/p in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php(44): require_once('/Users/nicbond/...')
+#7 {main}
+  thrown in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php(44): require_once('/Users/nicbond/...')
+#7 {main}
+  thrown in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php(44): require_once('/Users/nicbond/...')
+#7 {main}
+  thrown in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1237): require('/Users/nicbond/...')
+#5 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1158): WP_CLI\Runner->load_wordpress()
+#6 phar:///Applications/Local.app/Contents/Resource in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1237): require('/Users/nicbond/...')
+#5 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1158): WP_CLI\Runner->load_wordpress()
+#6 phar:///Applications/Local.app/Contents/Resource in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Feb-2020 14:54:37 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:37 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:37 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP   8. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php(44): require_once('/Users/nicbond/...')
+#7 {main}
+  thrown in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1237): require('/Users/nicbond/...')
+#5 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1158): WP_CLI\Runner->load_wordpress()
+#6 phar:///Applications/Local.app/Contents/Resource in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[05-Feb-2020 14:54:37 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[05-Feb-2020 14:54:37 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[05-Feb-2020 14:54:37 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[05-Feb-2020 14:54:37 UTC] PHP   9. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  10. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP  12. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1237): require('/Users/nicbond/...')
+#5 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1158): WP_CLI\Runner->load_wordpress()
+#6 phar:///Applications/Local.app/Contents/Resource in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1237): require('/Users/nicbond/...')
+#5 phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1158): WP_CLI\Runner->load_wordpress()
+#6 phar:///Applications/Local.app/Contents/Resource in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:42 UTC] PHP Warning:  Use of undefined constant register - assumed 'register' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:42 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:42 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Feb-2020 14:54:42 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Feb-2020 14:54:42 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:13
+[05-Feb-2020 14:54:42 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:42 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:42 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:42 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:42 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:42 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:42 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:42 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:42 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Feb-2020 14:54:42 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Feb-2020 14:54:42 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:13
+[05-Feb-2020 14:54:42 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:42 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:42 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:42 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:42 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:42 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:42 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:42 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:42 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Feb-2020 14:54:42 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Feb-2020 14:54:42 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:13
+[05-Feb-2020 14:54:42 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:42 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:42 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:42 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:42 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:42 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:42 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[05-Feb-2020 14:54:42 UTC] PHP Stack trace:
+[05-Feb-2020 14:54:42 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Feb-2020 14:54:42 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Feb-2020 14:54:42 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:13
+[05-Feb-2020 14:54:42 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Feb-2020 14:54:42 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Feb-2020 14:54:42 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Feb-2020 14:54:42 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Feb-2020 14:54:42 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Feb-2020 14:54:42 UTC] PHP   9. movie_reviews_init() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Feb-2020 14:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function type() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php:358
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): movie_reviews_init('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(13): require_once('/Users/nicbond/...')
+#7 /Users/nicbond/Local Sites/comp2109wordpress/app/p in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/cmsclass/functions.php on line 358
+[10-Feb-2020 05:38:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'loadjs' not found or invalid function name in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php on line 288
+[10-Feb-2020 05:38:04 UTC] PHP Stack trace:
+[10-Feb-2020 05:38:04 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[10-Feb-2020 05:38:04 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[10-Feb-2020 05:38:04 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:19
+[10-Feb-2020 05:38:04 UTC] PHP   4. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php:98
+[10-Feb-2020 05:38:04 UTC] PHP   5. get_header() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php:1
+[10-Feb-2020 05:38:04 UTC] PHP   6. locate_template() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php:41
+[10-Feb-2020 05:38:04 UTC] PHP   7. load_template() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:671
+[10-Feb-2020 05:38:04 UTC] PHP   8. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:722
+[10-Feb-2020 05:38:04 UTC] PHP   9. wp_head() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/header.php:5
+[10-Feb-2020 05:38:04 UTC] PHP  10. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php:2879
+[10-Feb-2020 05:38:04 UTC] PHP  11. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[10-Feb-2020 05:38:04 UTC] PHP  12. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[10-Feb-2020 05:38:04 UTC] PHP  13. wp_enqueue_scripts() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[10-Feb-2020 05:38:04 UTC] PHP  14. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php:2670
+[10-Feb-2020 05:38:04 UTC] PHP  15. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[10-Feb-2020 05:38:04 UTC] PHP  16. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[10-Feb-2020 05:39:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'loadjs' not found or invalid function name in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php on line 288
+[10-Feb-2020 05:39:34 UTC] PHP Stack trace:
+[10-Feb-2020 05:39:34 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[10-Feb-2020 05:39:34 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[10-Feb-2020 05:39:34 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:19
+[10-Feb-2020 05:39:34 UTC] PHP   4. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php:98
+[10-Feb-2020 05:39:34 UTC] PHP   5. get_header() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php:1
+[10-Feb-2020 05:39:34 UTC] PHP   6. locate_template() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php:41
+[10-Feb-2020 05:39:34 UTC] PHP   7. load_template() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:671
+[10-Feb-2020 05:39:34 UTC] PHP   8. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:722
+[10-Feb-2020 05:39:34 UTC] PHP   9. wp_head() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/header.php:5
+[10-Feb-2020 05:39:34 UTC] PHP  10. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php:2879
+[10-Feb-2020 05:39:34 UTC] PHP  11. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[10-Feb-2020 05:39:34 UTC] PHP  12. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[10-Feb-2020 05:39:34 UTC] PHP  13. wp_enqueue_scripts() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[10-Feb-2020 05:39:34 UTC] PHP  14. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php:2670
+[10-Feb-2020 05:39:34 UTC] PHP  15. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[10-Feb-2020 05:39:34 UTC] PHP  16. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[10-Feb-2020 05:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_register_scripts() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php:22
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): load_js('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_act in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php on line 22
+[10-Feb-2020 05:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_register_scripts() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php:22
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): load_js('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_act in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php on line 22
+[10-Feb-2020 05:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_register_scripts() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php:22
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): load_js('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_act in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php on line 22
+[10-Feb-2020 05:42:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_register_scripts() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php:22
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): load_js('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_act in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php on line 22
+[10-Feb-2020 05:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_register_scripts() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php:22
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): loadjs('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_acti in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php on line 22
+[10-Feb-2020 06:25:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/functions.php on line 53
+[10-Feb-2020 22:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function main_image() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:21
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(724): require()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', false)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php(4): get_template_part('/homepage', 'template')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/inde in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php on line 21
+[10-Feb-2020 22:34:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function main_image() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:21
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(724): require()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', false)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php(4): get_template_part('/homepage', 'template')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/inde in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php on line 21
+[10-Feb-2020 22:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_main_image() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:21
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(724): require()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', false)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php(4): get_template_part('/homepage', 'template')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/ in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php on line 21
+[10-Feb-2020 22:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function main_content() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:24
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(724): require()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', false)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php(4): get_template_part('/homepage', 'template')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/in in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php on line 24
+[10-Feb-2020 22:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function main_image() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:39
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(724): require()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', false)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php(4): get_template_part('/homepage', 'template')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/inde in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php on line 39
+[10-Feb-2020 22:42:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function main_image() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:35
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(724): require()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', false)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php(4): get_template_part('/homepage', 'template')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/inde in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php on line 35
+[10-Feb-2020 22:51:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/post-template.php on line 316
+[10-Feb-2020 22:51:18 UTC] PHP Stack trace:
+[10-Feb-2020 22:51:18 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[10-Feb-2020 22:51:18 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[10-Feb-2020 22:51:18 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:19
+[10-Feb-2020 22:51:18 UTC] PHP   4. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php:98
+[10-Feb-2020 22:51:18 UTC] PHP   5. get_template_part() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/front-page.php:4
+[10-Feb-2020 22:51:18 UTC] PHP   6. locate_template() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php:168
+[10-Feb-2020 22:51:18 UTC] PHP   7. load_template() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:671
+[10-Feb-2020 22:51:18 UTC] PHP   8. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:724
+[10-Feb-2020 22:51:18 UTC] PHP   9. the_content() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:16
+[10-Feb-2020 22:51:18 UTC] PHP  10. get_the_content() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/post-template.php:244
