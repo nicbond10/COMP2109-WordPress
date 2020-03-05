@@ -1,0 +1,26 @@
+2020-03-05T16:40:00+00:00 CRITICAL require(): Failed opening required '/Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/classes/class-twentynineteen-svg-icons.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 300
+
+2020-03-05T16:40:34+00:00 CRITICAL require(): Failed opening required '/Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/classes/class-twentynineteen-walker-comment.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 300
+
+2020-03-05T16:40:49+00:00 CRITICAL Uncaught Error: Call to undefined function twentynineteen_hsl_hex() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php:150
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): twentynineteen_setup('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(507): do_action('after_setup_the...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php(34): require_once('/Users/nicbond/...')
+#7 /Users/nic in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 150
+
+2020-03-05T18:52:20+00:00 CRITICAL Uncaught Error: Call to undefined function the_page_title() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/header.php:33
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(722): require_once()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', true)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/archive-news.php(7): get_header()
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php(17): require('/Users/nicbond/...')
+#7 {main in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/header.php on line 33
+

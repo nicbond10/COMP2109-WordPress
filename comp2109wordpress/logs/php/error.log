@@ -888,3 +888,192 @@ Stack trace:
 [10-Feb-2020 22:51:18 UTC] PHP   8. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php:724
 [10-Feb-2020 22:51:18 UTC] PHP   9. the_content() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/comp2109-assignment/homepage-template.php:16
 [10-Feb-2020 22:51:18 UTC] PHP  10. get_the_content() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/post-template.php:244
+[03-Mar-2020 22:17:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 84
+[03-Mar-2020 22:19:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 88
+[04-Mar-2020 13:21:18 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[04-Mar-2020 13:21:18 UTC] PHP Stack trace:
+[04-Mar-2020 13:21:18 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[04-Mar-2020 13:21:18 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[04-Mar-2020 13:21:18 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[04-Mar-2020 13:21:18 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[04-Mar-2020 13:21:18 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[04-Mar-2020 13:21:18 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Giving_Feedback_Notes::add_notes_for_admin_giving_feedback() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:65
+[04-Mar-2020 13:21:18 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Giving_Feedback_Notes::possibly_add_admin_giving_feedback_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Giving_Feedback_Notes.php:27
+[04-Mar-2020 13:21:18 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Giving_Feedback_Notes::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Giving_Feedback_Notes.php:46
+[04-Mar-2020 13:21:18 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[04-Mar-2020 13:21:18 UTC] PHP Stack trace:
+[04-Mar-2020 13:21:18 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[04-Mar-2020 13:21:18 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[04-Mar-2020 13:21:18 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[04-Mar-2020 13:21:18 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[04-Mar-2020 13:21:18 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[04-Mar-2020 13:21:18 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Mobile_App::possibly_add_mobile_app_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:66
+[04-Mar-2020 13:21:18 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Mobile_App::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Mobile_App.php:34
+[04-Mar-2020 13:21:18 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[04-Mar-2020 13:21:18 UTC] PHP Stack trace:
+[04-Mar-2020 13:21:18 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[04-Mar-2020 13:21:18 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[04-Mar-2020 13:21:18 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[04-Mar-2020 13:21:18 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[04-Mar-2020 13:21:18 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[04-Mar-2020 13:21:18 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Tracking_Opt_In::possibly_add_tracking_opt_in_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:69
+[04-Mar-2020 13:21:18 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Tracking_Opt_In::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Tracking_Opt_In.php:45
+[04-Mar-2020 13:21:18 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[04-Mar-2020 13:21:18 UTC] PHP Stack trace:
+[04-Mar-2020 13:21:18 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[04-Mar-2020 13:21:18 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[04-Mar-2020 13:21:18 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[04-Mar-2020 13:21:18 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[04-Mar-2020 13:21:18 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[04-Mar-2020 13:21:18 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Onboarding_Email_Marketing::possibly_add_onboarding_email_marketing_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:70
+[04-Mar-2020 13:21:18 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Onboarding_Email_Marketing::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Onboarding_Email_Marketing.php:38
+[05-Mar-2020 15:42:59 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_options` WHERE `option_name` = '_transient_jetpack_idc_allowed' made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Config->on_plugins_loaded, Automattic\Jetpack\Config->ensure_feature, Automattic\Jetpack\Config->enable_sync, Automattic\Jetpack\Sync\Main::configure, Automattic\Jetpack\Sync\Actions::sync_allowed, Automattic\Jetpack\Status->is_staging_site, Jetpack::validate_sync_error_idc_option, get_transient, delete_option
+[05-Mar-2020 15:43:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/update.php on line 162
+[05-Mar-2020 15:43:01 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:01 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:01 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:01 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:01 UTC] PHP   5. wp_version_check() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:01 UTC] PHP   6. trigger_error() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/update.php:162
+[05-Mar-2020 15:43:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/update.php on line 388
+[05-Mar-2020 15:43:01 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:01 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:01 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:01 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:01 UTC] PHP   5. wp_update_plugins() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:01 UTC] PHP   6. trigger_error() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/update.php:388
+[05-Mar-2020 15:43:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/update.php on line 577
+[05-Mar-2020 15:43:01 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:01 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:01 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:01 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:01 UTC] PHP   5. wp_update_themes() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:01 UTC] PHP   6. trigger_error() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/update.php:577
+[05-Mar-2020 15:43:01 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[05-Mar-2020 15:43:01 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:01 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:01 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:01 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:01 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:01 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Mobile_App::possibly_add_mobile_app_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:66
+[05-Mar-2020 15:43:01 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Mobile_App::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Mobile_App.php:34
+[05-Mar-2020 15:43:01 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[05-Mar-2020 15:43:01 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:01 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:01 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:01 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:01 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:01 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Facebook_Extension::possibly_add_facebook_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:67
+[05-Mar-2020 15:43:01 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Facebook_Extension::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Facebook_Extension.php:47
+[05-Mar-2020 15:43:02 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[05-Mar-2020 15:43:02 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:02 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:02 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:02 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:02 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:02 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Tracking_Opt_In::possibly_add_tracking_opt_in_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:69
+[05-Mar-2020 15:43:02 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Tracking_Opt_In::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Tracking_Opt_In.php:45
+[05-Mar-2020 15:43:02 UTC] PHP Warning:  A non-numeric value encountered in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/NoteTraits.php on line 34
+[05-Mar-2020 15:43:02 UTC] PHP Stack trace:
+[05-Mar-2020 15:43:02 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 15:43:02 UTC] PHP   2. do_action_ref_array() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:138
+[05-Mar-2020 15:43:02 UTC] PHP   3. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:544
+[05-Mar-2020 15:43:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 15:43:02 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:288
+[05-Mar-2020 15:43:02 UTC] PHP   6. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Onboarding_Email_Marketing::possibly_add_onboarding_email_marketing_note() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Events.php:70
+[05-Mar-2020 15:43:02 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Onboarding_Email_Marketing::wc_admin_active_for() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/plugins/woocommerce-admin/src/Notes/WC_Admin_Notes_Onboarding_Email_Marketing.php:38
+[05-Mar-2020 16:40:00 UTC] PHP Warning:  require(/Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/classes/class-twentynineteen-svg-icons.php): failed to open stream: No such file or directory in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 300
+[05-Mar-2020 16:40:00 UTC] PHP Stack trace:
+[05-Mar-2020 16:40:00 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:0
+[05-Mar-2020 16:40:00 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:10
+[05-Mar-2020 16:40:00 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Mar-2020 16:40:00 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 16:40:00 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 16:40:00 UTC] PHP   6. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:497
+[05-Mar-2020 16:40:00 UTC] PHP Fatal error:  require(): Failed opening required '/Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/classes/class-twentynineteen-svg-icons.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 300
+[05-Mar-2020 16:40:00 UTC] PHP Stack trace:
+[05-Mar-2020 16:40:00 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:0
+[05-Mar-2020 16:40:00 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:10
+[05-Mar-2020 16:40:00 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Mar-2020 16:40:00 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 16:40:00 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 16:40:00 UTC] PHP   6. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:497
+[05-Mar-2020 16:40:34 UTC] PHP Warning:  require(/Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/classes/class-twentynineteen-walker-comment.php): failed to open stream: No such file or directory in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 300
+[05-Mar-2020 16:40:34 UTC] PHP Stack trace:
+[05-Mar-2020 16:40:34 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:0
+[05-Mar-2020 16:40:34 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:10
+[05-Mar-2020 16:40:34 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Mar-2020 16:40:34 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 16:40:34 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 16:40:34 UTC] PHP   6. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:497
+[05-Mar-2020 16:40:34 UTC] PHP Fatal error:  require(): Failed opening required '/Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/classes/class-twentynineteen-walker-comment.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 300
+[05-Mar-2020 16:40:34 UTC] PHP Stack trace:
+[05-Mar-2020 16:40:34 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:0
+[05-Mar-2020 16:40:34 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/update-core.php:10
+[05-Mar-2020 16:40:34 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php:34
+[05-Mar-2020 16:40:34 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 16:40:34 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 16:40:34 UTC] PHP   6. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:497
+[05-Mar-2020 16:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentynineteen_hsl_hex() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php:150
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(288): twentynineteen_setup('')
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php(507): do_action('after_setup_the...')
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php(77): require_once('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php(37): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-admin/admin.php(34): require_once('/Users/nicbond/...')
+#7 /Users/nic in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/functions.php on line 150
+[05-Mar-2020 18:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_page_title() in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/header.php:33
+Stack trace:
+#0 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(722): require_once()
+#1 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template.php(671): load_template('/Users/nicbond/...', true)
+#2 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/archive-news.php(7): get_header()
+#4 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php(98): include('/Users/nicbond/...')
+#5 /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php(19): require_once('/Users/nicbond/...')
+#6 /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php(17): require('/Users/nicbond/...')
+#7 {main in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/header.php on line 33
+[05-Mar-2020 19:29:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'lemon_shortcode' not found or invalid function name in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php on line 288
+[05-Mar-2020 19:29:26 UTC] PHP Stack trace:
+[05-Mar-2020 19:29:26 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Mar-2020 19:29:26 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Mar-2020 19:29:26 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:13
+[05-Mar-2020 19:29:26 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 19:29:26 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 19:29:26 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Mar-2020 19:29:26 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Mar-2020 19:29:26 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 19:29:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'lemon_shortcode' not found or invalid function name in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php on line 288
+[05-Mar-2020 19:29:26 UTC] PHP Stack trace:
+[05-Mar-2020 19:29:26 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:0
+[05-Mar-2020 19:29:26 UTC] PHP   2. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-cron.php:44
+[05-Mar-2020 19:29:26 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 19:29:26 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 19:29:26 UTC] PHP   5. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Mar-2020 19:29:26 UTC] PHP   6. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Mar-2020 19:29:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 19:29:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'lemon_shortcode' not found or invalid function name in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php on line 288
+[05-Mar-2020 19:29:26 UTC] PHP Stack trace:
+[05-Mar-2020 19:29:26 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Mar-2020 19:29:26 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Mar-2020 19:29:26 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:13
+[05-Mar-2020 19:29:26 UTC] PHP   4. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-load.php:37
+[05-Mar-2020 19:29:26 UTC] PHP   5. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-config.php:77
+[05-Mar-2020 19:29:26 UTC] PHP   6. do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-settings.php:523
+[05-Mar-2020 19:29:26 UTC] PHP   7. WP_Hook->do_action() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/plugin.php:478
+[05-Mar-2020 19:29:26 UTC] PHP   8. WP_Hook->apply_filters() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/class-wp-hook.php:312
+[05-Mar-2020 20:25:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/post-template.php on line 316
+[05-Mar-2020 20:25:50 UTC] PHP Stack trace:
+[05-Mar-2020 20:25:50 UTC] PHP   1. {main}() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:0
+[05-Mar-2020 20:25:50 UTC] PHP   2. require() /Users/nicbond/Local Sites/comp2109wordpress/app/public/index.php:17
+[05-Mar-2020 20:25:50 UTC] PHP   3. require_once() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-blog-header.php:19
+[05-Mar-2020 20:25:50 UTC] PHP   4. include() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/template-loader.php:98
+[05-Mar-2020 20:25:50 UTC] PHP   5. the_content() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-content/themes/lemon-business/homepage-template.php:16
+[05-Mar-2020 20:25:50 UTC] PHP   6. get_the_content() /Users/nicbond/Local Sites/comp2109wordpress/app/public/wp-includes/post-template.php:244
