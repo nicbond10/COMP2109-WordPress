@@ -8,6 +8,9 @@
 get_header();
 ?>
 
+<!-- NOTE: I could not figure out how to get the custom post to work exactly the way we did in class, 
+so I did it using this archive page as the template -->
+
 	<div id="primary" class="container">
 		<main id="main" class="site-main">
 
